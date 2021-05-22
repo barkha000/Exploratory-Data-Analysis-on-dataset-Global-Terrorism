@@ -8,4 +8,6 @@ In this task I have perform Exploratory data analysis on Terrorism dataset and A
 6.Group with the most attacks: Taliban
 7.Most Attack Types: Bombing/Explosion
 
+Public tableau link of Dashboard : https://lnkd.in/gyT_Kbw
+
 # Thank You!!
